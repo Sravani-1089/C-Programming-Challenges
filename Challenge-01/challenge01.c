@@ -6,7 +6,7 @@ int total;
 float average,percentage;
 printf("enter marks of five subjects:\n");
 printf("subject1:");
-scanf("%d",&m1):
+scanf("%d",&m1);
 printf("subject2:");
 scanf("%d",&m2);
 printf("subject3:");
