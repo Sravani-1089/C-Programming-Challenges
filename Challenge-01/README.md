@@ -1,4 +1,4 @@
-Challenge 01 - Student Marks Calculator
+Challenge 01 - Student Marks Calculator                    
 Problem Statement : Read marks of five subjects and calculate total,average,and percentage.
 Alogorithm
 1. Start.
