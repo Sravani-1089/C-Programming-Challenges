@@ -7,10 +7,10 @@ int main() {
     int peaks = 0, run = 1, longest = 1;
     int r, d, count = 0;
 
-    do {
+    
         printf("Enter N: ");
         scanf("%d", &n);
-    } while (n < 5 || n > 12);
+     while (n < 5 || n > 12);
 
     for (i = 0; i < n; i++) {
         do {
